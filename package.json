@@ -1,0 +1,10 @@
+{
+    "name": "com.sas.library.unirx",
+    "version": "7.1.2",
+    "description": "UniRx",
+    "license": "ISC",
+    "displayName": "Unirx",
+    "type": "library",
+    "hideInEditor": false,
+    "dependencies": {}
+}
